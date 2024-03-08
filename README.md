@@ -4,7 +4,7 @@ Voici un recensement de mes projets réalisés pour la plupart lors de ma format
 
 ## Projets disponibles triés du plus récent au plus ancien
 
-Lutoftheque
+### Lutoftheque
 
    Projet de fin de formation : Une gestion de jeux de société, dont le but premier est d'optimiser le choix des jeux en fonction des joueurs présents, choix selon leur âge, nombre, préférenses de jeux, etc...
    
@@ -16,7 +16,7 @@ Lutoftheque
 
 
 
-[LaboAngular](https://github.com/murgol75/laboAngular)
+### [LaboAngular](https://github.com/murgol75/laboAngular)
 
 Exercice en fin de labo angular qui consistait à gérer des évènements sur base d'une Api proposée par la formatrice
 
@@ -24,7 +24,7 @@ Exercice en fin de labo angular qui consistait à gérer des évènements sur ba
 
 
 
-[Memory](https://github.com/murgol75/Memory)
+### [Memory](https://github.com/murgol75/Memory)
 
 un jeu de mémory réalisé en JS 
 
@@ -34,7 +34,7 @@ un jeu de mémory réalisé en JS
 
 
 
-[Heroes Vs Monster](https://github.com/murgol75/heroes-VS-monster)
+### [Heroes Vs Monster](https://github.com/murgol75/heroes-VS-monster)
 
 Jeu de rôle réalisé en console dans le cadre de cours de CSharp Orienté Objet
 
