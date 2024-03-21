@@ -4,6 +4,12 @@ Voici un recensement de mes projets réalisés pour la plupart lors de ma format
 
 ## Projets disponibles triés du plus récent au plus ancien
 
+### Rogue-Roan
+
+Après la sortie de formation, avec 3 autres étudiants ( Antoine, Robin et Nikos) nous avons décidé, histoire de se maintenir en forme, de démarrer un projet commun sur base du jeu rogue (oserions-nous dire un rogueLike ?)
+
+vous le trouverez | [ICI](https://github.com/rogue-roan/Rogue-Roan)
+
 ### Lutoftheque
 
    Projet de fin de formation : Une gestion de jeux de société, dont le but premier est d'optimiser le choix des jeux en fonction des joueurs présents, choix selon leur âge, nombre, préférenses de jeux, etc...
